@@ -195,4 +195,4 @@ This repository serves as the official landing page for HEXAROMA: Village Builde
 **Get the most recent version of HEXAROMA: Village Builder today!**
 
 ---
-**Last updated:** 2026-11-07 16:40:35 UTC
+**Last updated:** 2026-11-07 20:36:07 UTC
